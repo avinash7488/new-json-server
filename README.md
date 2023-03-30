@@ -5,11 +5,12 @@
     "users":[
         {
             "id":1,
-            "username":"Aks",
+            "fullName":"Akash kumar",
             "email":"ak@gmail.com",
             "password":"masai"
         }
     ],
-    "products":[],
-    "cart":[]
+    "userdata":[
+    
+    ],
 }
